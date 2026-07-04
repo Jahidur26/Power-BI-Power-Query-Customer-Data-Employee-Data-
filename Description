@@ -1,0 +1,9 @@
+**Project Overview:** Power Query babohar kore Customer abong Employee data clean abong transform korar pipeline.
+**Data Headers:** `Customet Data - Applied steps_2.PNG` fail-ti onujayi metadata bad diye headers promote kora hoyeche.
+**Name Splitting:** Customer data-r full name column-ke split kore first name abong last name alada kora hoyeche.
+**Date Parsing:** Transaction date theke bochor alada korar jonno "Inserted Year" step babohar kora hoyeche.
+**Customer Schema:** Final dataset-ti `Customet Data (Power Query-1)_2.PNG` e Order ID, Name, Email, abong Address dharon kore.**Financial Metrics:** `Customet Data (Power Query-2)_2.PNG` onujayi Quantity, Price, Total Price, abong Date column gucho clean kora hoyeche.
+**Missing Data Handling:** `Employee Data_2.PNG` e missing ba blank salary value gulo-ke M-code diye "00" dara replace kora hoyeche.
+**Employee Sorting:** Custom sorting abong structural steps `Employee Data- Applied Steps_2.PNG` onujayi deparment wise sazano hoyeche.
+**Data Quality:** Power Query-r profiling tools onujayi dataset dutir data validity purno **100%** nishchit kora hoyeche.
+**Use Case:** Reporting abong Power BI dashboard analytics er jonno ekti nifut ETL foundation toyri kora hoyeche.
